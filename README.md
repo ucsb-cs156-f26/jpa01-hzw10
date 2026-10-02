@@ -1,4 +1,4 @@
-# STARTER-jpa01-hzw10
+# jpa01-hzw10
 
 Deployed at: https://jpa01-hzw10.dokku-08.cs.ucsb.edu
 
